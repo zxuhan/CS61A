@@ -3,6 +3,7 @@
 
 .ok_history
 .ok_messages
+.ok_storage.db
 
-__pycache__/
-tests/
+/__pycache__/
+/tests/

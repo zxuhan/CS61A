@@ -4,6 +4,8 @@
 .ok_history
 .ok_messages
 .ok_storage.db
+.ok_consent
+.ok_context
 
 __pycache__/
 tests/
